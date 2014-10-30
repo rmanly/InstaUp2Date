@@ -1,0 +1,17 @@
+# Updated by hand by RMANLY 2014-10-30
+
+Installer Disc Builds:	10A432, 10B504, 10C540, 10D573, 10D575, 10F569
+
+Output Volume Name:	Macintosh HD
+Output File Name:	10.6_vanilla
+
+OS Updates:
+	Mac OS X 10.6.8 Update Combo v1.1	http://support.apple.com/downloads/DL1399/en_US/MacOSXUpdCombo10.6.8.dmg	sha1:e0742e7537f80c9e01376ea3b3c09df993900643
+	iTunes 11.4	http://appldnld.apple.com/iTunes11/031-06978.20140909.HuRRe/iTunes11.4.dmg	sha1:6a4850d190b7f1e44ac4f58ca265f3845b9df787
+	Safari 5.1.10 for Snow Leopard	http://support.apple.com/downloads/DL1569/en_US/Safari5.1.10SnowLeopardManual.dmg	sha1:16fa66d8c8336688d983e1f125f773bb45fa3897
+	Java for Mac OS X 10.6 Update 17	http://support.apple.com/downloads/DL1573/en_US/JavaForMacOSX10.6update17.dmg	sha1:5dfe7eaebf9726352c97964da61d57fa28246c08
+	Apple Remote Desktop 3.5.4 Client	http://support.apple.com/downloads/DL1693/en_US/ARDClient3.5.4.dmg	sha1:5c22ffdabe875da62644331e63e64d6b27ad9afc
+	Apple Software Installer Update 1.0	http://support.apple.com/downloads/DL1512/en_US/AppleSoftwareInstallerUpdate.dmg	sha1:f03170aedca0fbb7e58026de0436bc614a4dab8f
+	Security Update 2013-004 (Snow Leopard)	http://support.apple.com/downloads/DL1678/en_US/SecUpd2013-004.dmg	sha1:d07d5142a2549270f0d2eaddb262b41bb5c16b61
+	AirPort Utility 5.6.1 for Leopard-Snow Leopard	http://support.apple.com/downloads/DL1536/en_US/AirPortUtility5.6.1.dmg	sha1:66943c0eb6de4567954c730f59a40bd5537055b3
+	Migration Assistant Update for Mac OS X Snow Leopard v1.1	http://support.apple.com/downloads/DL1694/en_US/SnowLeoMigrationAsst.dmg	sha1:a8c21c5398817f69fc121924c2610a83c36f5021
